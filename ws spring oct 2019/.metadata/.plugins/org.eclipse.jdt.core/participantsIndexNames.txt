@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\forlrzma\Desktop\cursoSpringOct2019\ws spring oct 2019\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3698637027.index
+\EmpleadosSpring\src
+C:\Users\forlrzma\Desktop\cursoSpringOct2019\ws spring oct 2019\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3004234641.index
+\EmpleadosSpring\src
